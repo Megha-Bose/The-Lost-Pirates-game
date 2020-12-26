@@ -31,3 +31,8 @@ The speed of moving objects increases in the next round for that player
 who wins the round. 
 
 After 3 rounds the player who has higher score is declared the winner.
+
+<img src="img1.jpeg" align="center" height="300" width="600">
+<img src="img2.jpeg" align="center" height="300" width="600">
+<img src="img3.jpeg" align="center" height="300" width="600">
+<img src="img4.jpeg" align="center" height="300" width="600">
